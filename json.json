@@ -1,0 +1,2636 @@
+{
+    "ExtensionData": {},
+    "UserPosition": {
+        "ExtensionData": {},
+        "Lat": 45.5466414,
+        "Lon": -73.6143354
+    },
+    "Vehicules": [
+        {
+            "EnergyLevel": 61,
+            "ExtensionData": {},
+            "Id": "JTDKDTB37G1126575",
+            "Immat": "FLM8385",
+            "ModelName": "PRIUS-C",
+            "Name": "3567",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.55020733333333,
+                "Lon": -73.60855983333333
+            }
+        },
+        {
+            "EnergyLevel": 92,
+            "ExtensionData": {},
+            "Id": "JTDKDTB30D1540034",
+            "Immat": "FHG6906",
+            "ModelName": "PRIUS-C",
+            "Name": "2665",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.548906833333334,
+                "Lon": -73.60572066666667
+            }
+        },
+        {
+            "EnergyLevel": 92,
+            "ExtensionData": {},
+            "Id": "JTDKDTB3XF1583878",
+            "Immat": "FKD8620",
+            "ModelName": "PRIUS-C",
+            "Name": "3059",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.5453505,
+                "Lon": -73.62945883333333
+            }
+        },
+        {
+            "EnergyLevel": 38,
+            "ExtensionData": {},
+            "Id": "JTDKDTB38F1091995",
+            "Immat": "FKD8656",
+            "ModelName": "PRIUS-C",
+            "Name": "3040",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.5366685,
+                "Lon": -73.60660683333333
+            }
+        },
+        {
+            "EnergyLevel": 31,
+            "ExtensionData": {},
+            "Id": "JTDKDTB33D1040823",
+            "Immat": "FJA9032",
+            "ModelName": "PRIUS-C",
+            "Name": "2619 - NPC",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.538891,
+                "Lon": -73.6016585
+            }
+        },
+        {
+            "EnergyLevel": 61,
+            "ExtensionData": {},
+            "Id": "JTDKDTB39E1572627",
+            "Immat": "FJH3006",
+            "ModelName": "PRIUS-C",
+            "Name": "2932",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.533968333333334,
+                "Lon": -73.6213775
+            }
+        },
+        {
+            "EnergyLevel": 32,
+            "ExtensionData": {},
+            "Id": "JTDKDTB34D1041382",
+            "Immat": "FJA9078",
+            "ModelName": "PRIUS-C",
+            "Name": "2653",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.559739666666665,
+                "Lon": -73.60834683333333
+            }
+        },
+        {
+            "EnergyLevel": 45,
+            "ExtensionData": {},
+            "Id": "JTDKDTB37D1540208",
+            "Immat": "FJJ7082",
+            "ModelName": "PRIUS-C",
+            "Name": "2670",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.547793666666664,
+                "Lon": -73.63545233333333
+            }
+        },
+        {
+            "EnergyLevel": 64,
+            "ExtensionData": {},
+            "Id": "JTDKDTB39E1564494",
+            "Immat": "FKD7375",
+            "ModelName": "PRIUS-C",
+            "Name": "2809",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.5331915,
+                "Lon": -73.6242
+            }
+        },
+        {
+            "EnergyLevel": 41,
+            "ExtensionData": {},
+            "Id": "JTDKDTB37E1071252",
+            "Immat": "FKK4027",
+            "ModelName": "PRIUS-C",
+            "Name": "2917",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.543786833333336,
+                "Lon": -73.63873166666667
+            }
+        },
+        {
+            "EnergyLevel": 75,
+            "ExtensionData": {},
+            "Id": "JTDKDTB31F1581307",
+            "Immat": "FKK4503",
+            "ModelName": "PRIUS-C",
+            "Name": "2940",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.56155583333334,
+                "Lon": -73.6012435
+            }
+        },
+        {
+            "EnergyLevel": 85,
+            "ExtensionData": {},
+            "Id": "JTDKDTB38G1126102",
+            "Immat": "IMMAT",
+            "ModelName": "PRIUS-C",
+            "Name": "3571",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.532028333333336,
+                "Lon": -73.5984515
+            }
+        },
+        {
+            "EnergyLevel": 92,
+            "ExtensionData": {},
+            "Id": "JTDKDTB34E1069541",
+            "Immat": "FKD6848",
+            "ModelName": "PRIUS-C",
+            "Name": "2815",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.5313145,
+                "Lon": -73.59892083333334
+            }
+        },
+        {
+            "EnergyLevel": 67,
+            "ExtensionData": {},
+            "Id": "JTDKDTB31G1127527",
+            "Immat": "Plaque",
+            "ModelName": "PRIUS-C",
+            "Name": "3456",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.52844283333334,
+                "Lon": -73.620961
+            }
+        },
+        {
+            "EnergyLevel": 61,
+            "ExtensionData": {},
+            "Id": "JTDKDTB32E1565650",
+            "Immat": "FKK4097",
+            "ModelName": "PRIUS-C",
+            "Name": "2927",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.539483833333335,
+                "Lon": -73.64074166666667
+            }
+        },
+        {
+            "EnergyLevel": 77,
+            "ExtensionData": {},
+            "Id": "JTDKDTB35F1581973",
+            "Immat": "FKK4516",
+            "ModelName": "PRIUS-C",
+            "Name": "2961 - NPC",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.53967633333333,
+                "Lon": -73.64148083333333
+            }
+        },
+        {
+            "EnergyLevel": 51,
+            "ExtensionData": {},
+            "Id": "JTDKDTB36E1564582",
+            "Immat": "FVE7340",
+            "ModelName": "PRIUS-C",
+            "Name": "2794",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.5422235,
+                "Lon": -73.585775
+            }
+        },
+        {
+            "EnergyLevel": 74,
+            "ExtensionData": {},
+            "Id": "JTDKDTB31F1584580",
+            "Immat": "FKX5492",
+            "ModelName": "PRIUS-C",
+            "Name": "3144",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.528732833333336,
+                "Lon": -73.63082116666666
+            }
+        },
+        {
+            "EnergyLevel": 74,
+            "ExtensionData": {},
+            "Id": "JTDKDTB35D1539459",
+            "Immat": "FJJ7079",
+            "ModelName": "PRIUS-C",
+            "Name": "2669",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.535413,
+                "Lon": -73.64037216666667
+            }
+        },
+        {
+            "EnergyLevel": 34,
+            "ExtensionData": {},
+            "Id": "JTDKDTB35E1564332",
+            "Immat": "FKD6841",
+            "ModelName": "PRIUS-C",
+            "Name": "2818",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.526141333333335,
+                "Lon": -73.62441016666666
+            }
+        },
+        {
+            "EnergyLevel": 84,
+            "ExtensionData": {},
+            "Id": "JTDKDTB3XG1127333",
+            "Immat": "IMMAT",
+            "ModelName": "PRIUS-C",
+            "Name": "3590",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.525824166666666,
+                "Lon": -73.62328433333333
+            }
+        },
+        {
+            "EnergyLevel": 91,
+            "ExtensionData": {},
+            "Id": "JTDKDTB31D1542276",
+            "Immat": "FJA9081",
+            "ModelName": "PRIUS-C",
+            "Name": "2644",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.5295905,
+                "Lon": -73.63394883333333
+            }
+        },
+        {
+            "EnergyLevel": 84,
+            "ExtensionData": {},
+            "Id": "JTDKDTB3XG1127543",
+            "Immat": "IMMAT",
+            "ModelName": "PRIUS-C",
+            "Name": "3592",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.5257235,
+                "Lon": -73.604327
+            }
+        },
+        {
+            "EnergyLevel": 78,
+            "ExtensionData": {},
+            "Id": "JTDKDTB38E1068912",
+            "Immat": "FKD6832",
+            "ModelName": "PRIUS-C",
+            "Name": "2823",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.559989,
+                "Lon": -73.58869
+            }
+        },
+        {
+            "EnergyLevel": 55,
+            "ExtensionData": {},
+            "Id": "JTDKDTB32F1584328",
+            "Immat": "FKX5495",
+            "ModelName": "PRIUS-C",
+            "Name": "3137",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.559226,
+                "Lon": -73.58752583333333
+            }
+        },
+        {
+            "EnergyLevel": 68,
+            "ExtensionData": {},
+            "Id": "JTDKDTB31E1564652",
+            "Immat": "FKD6838",
+            "ModelName": "PRIUS-C",
+            "Name": "2811",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.539526,
+                "Lon": -73.583497
+            }
+        },
+        {
+            "EnergyLevel": 91,
+            "ExtensionData": {},
+            "Id": "JN1AZ0CP0BT005299",
+            "Immat": "FVE1200",
+            "ModelName": "LEAF",
+            "Name": "2415-R",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.52457233333333,
+                "Lon": -73.623198
+            }
+        },
+        {
+            "EnergyLevel": 90,
+            "ExtensionData": {},
+            "Id": "JTDKDTB39F1584035",
+            "Immat": "FKD8654",
+            "ModelName": "PRIUS-C",
+            "Name": "3042",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.52457166666667,
+                "Lon": -73.62326566666667
+            }
+        },
+        {
+            "EnergyLevel": 32,
+            "ExtensionData": {},
+            "Id": "JTDKDTB32F1092902",
+            "Immat": "FKX5697",
+            "ModelName": "PRIUS-C",
+            "Name": "3089",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.524524166666666,
+                "Lon": -73.62309583333334
+            }
+        },
+        {
+            "EnergyLevel": 35,
+            "ExtensionData": {},
+            "Id": "JTDKDTB35F1092781",
+            "Immat": "FKX5444",
+            "ModelName": "PRIUS-C",
+            "Name": "3092",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.567253666666666,
+                "Lon": -73.599627
+            }
+        },
+        {
+            "EnergyLevel": 34,
+            "ExtensionData": {},
+            "Id": "JTDKDTB31E1564649",
+            "Immat": "FKD7370",
+            "ModelName": "PRIUS-C",
+            "Name": "2802",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.5443935,
+                "Lon": -73.58151483333333
+            }
+        },
+        {
+            "EnergyLevel": 37,
+            "ExtensionData": {},
+            "Id": "JTDKDTB36E1564727",
+            "Immat": "FJM3750",
+            "ModelName": "PRIUS-C",
+            "Name": "2875",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.5243975,
+                "Lon": -73.62395616666667
+            }
+        },
+        {
+            "EnergyLevel": 82,
+            "ExtensionData": {},
+            "Id": "JTDKDTB3XF1584674",
+            "Immat": "FKX5418",
+            "ModelName": "PRIUS-C",
+            "Name": "3088",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.5258985,
+                "Lon": -73.62931583333334
+            }
+        },
+        {
+            "EnergyLevel": 87,
+            "ExtensionData": {},
+            "Id": "JTDKDTB32F1583969",
+            "Immat": "FKX5623",
+            "ModelName": "PRIUS-C",
+            "Name": "3067",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.52436733333333,
+                "Lon": -73.6243435
+            }
+        },
+        {
+            "EnergyLevel": 75,
+            "ExtensionData": {},
+            "Id": "JTDKDTB35E1071086",
+            "Immat": "FKK4032",
+            "ModelName": "PRIUS-C",
+            "Name": "2925",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.52656983333333,
+                "Lon": -73.59660583333333
+            }
+        },
+        {
+            "EnergyLevel": 51,
+            "ExtensionData": {},
+            "Id": "JTDKDTB37G1126091",
+            "Immat": "FLM8379",
+            "ModelName": "PRIUS-C",
+            "Name": "3561",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.5579335,
+                "Lon": -73.58469966666667
+            }
+        },
+        {
+            "EnergyLevel": 74,
+            "ExtensionData": {},
+            "Id": "JTDKDTB35F1584162",
+            "Immat": "FKX5622",
+            "ModelName": "PRIUS-C",
+            "Name": "3066",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.527606166666665,
+                "Lon": -73.59432466666667
+            }
+        },
+        {
+            "EnergyLevel": 55,
+            "ExtensionData": {},
+            "Id": "1N4AZ0CP4FC334080",
+            "Immat": "FVE1085",
+            "ModelName": "LEAF",
+            "Name": "3304-R",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.563391833333334,
+                "Lon": -73.5883575
+            }
+        },
+        {
+            "EnergyLevel": 92,
+            "ExtensionData": {},
+            "Id": "JTDKDTB37F1584762",
+            "Immat": "FKX5497",
+            "ModelName": "PRIUS-C",
+            "Name": "3090",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.525581,
+                "Lon": -73.5944885
+            }
+        },
+        {
+            "EnergyLevel": 71,
+            "ExtensionData": {},
+            "Id": "JTDKDTB39E1070913",
+            "Immat": "FKK4030",
+            "ModelName": "PRIUS-C",
+            "Name": "2918",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.56791116666667,
+                "Lon": -73.5927895
+            }
+        },
+        {
+            "EnergyLevel": 80,
+            "ExtensionData": {},
+            "Id": "JTDKDTB30E1070010",
+            "Immat": "FKD7341",
+            "ModelName": "PRIUS-C",
+            "Name": "2793",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.55130533333333,
+                "Lon": -73.57708266666667
+            }
+        },
+        {
+            "EnergyLevel": 62,
+            "ExtensionData": {},
+            "Id": "JTDKDTB31F1583851",
+            "Immat": "FKX5634",
+            "ModelName": "PRIUS-C",
+            "Name": "3037",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.55921016666667,
+                "Lon": -73.5737695
+            }
+        },
+        {
+            "EnergyLevel": 92,
+            "ExtensionData": {},
+            "Id": "JTDKDTB39E1070930",
+            "Immat": "FKK4029",
+            "ModelName": "PRIUS-C",
+            "Name": "2919",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.542931,
+                "Lon": -73.57016316666666
+            }
+        },
+        {
+            "EnergyLevel": 62,
+            "ExtensionData": {},
+            "Id": "JTDKDTB33E1564894",
+            "Immat": "FJM3752",
+            "ModelName": "PRIUS-C",
+            "Name": "2877",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.5544905,
+                "Lon": -73.57085866666667
+            }
+        },
+        {
+            "EnergyLevel": 74,
+            "ExtensionData": {},
+            "Id": "JTDKDTB35F1584145",
+            "Immat": "FKX5633",
+            "ModelName": "PRIUS-C",
+            "Name": "3038",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.51663966666667,
+                "Lon": -73.59905316666666
+            }
+        },
+        {
+            "EnergyLevel": 41,
+            "ExtensionData": {},
+            "Id": "JTDKDTB32F1582997",
+            "Immat": "FKK4667",
+            "ModelName": "PRIUS-C",
+            "Name": "2974 - NPC",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.524733,
+                "Lon": -73.58096283333333
+            }
+        },
+        {
+            "EnergyLevel": 65,
+            "ExtensionData": {},
+            "Id": "JTDKDTB39F1583452",
+            "Immat": "FKK4664",
+            "ModelName": "PRIUS-C",
+            "Name": "2984 - NPC",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.51841483333333,
+                "Lon": -73.59202616666667
+            }
+        },
+        {
+            "EnergyLevel": 48,
+            "ExtensionData": {},
+            "Id": "JTDKDTB35F1581049",
+            "Immat": "FKK4510",
+            "ModelName": "PRIUS-C",
+            "Name": "2943 - NPC",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.518427,
+                "Lon": -73.5906165
+            }
+        },
+        {
+            "EnergyLevel": 78,
+            "ExtensionData": {},
+            "Id": "1N4AZ0CP0FC333976",
+            "Immat": "FVE1146",
+            "ModelName": "LEAF",
+            "Name": "3305-R",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.52458133333333,
+                "Lon": -73.57819183333334
+            }
+        },
+        {
+            "EnergyLevel": 35,
+            "ExtensionData": {},
+            "Id": "JTDKDTB36E1564596",
+            "Immat": "FVE7339",
+            "ModelName": "PRIUS-C",
+            "Name": "2795",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.51878516666667,
+                "Lon": -73.58515766666666
+            }
+        },
+        {
+            "EnergyLevel": 68,
+            "ExtensionData": {},
+            "Id": "JTDKDTB3XF1583959",
+            "Immat": "FKX5624",
+            "ModelName": "PRIUS-C",
+            "Name": "3068 - NPC",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.52262666666667,
+                "Lon": -73.5782715
+            }
+        },
+        {
+            "EnergyLevel": 71,
+            "ExtensionData": {},
+            "Id": "JTDKDTB38G1126682",
+            "Immat": "IMMAT",
+            "ModelName": "PRIUS-C",
+            "Name": "3579",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.573057666666664,
+                "Lon": -73.58021116666667
+            }
+        },
+        {
+            "EnergyLevel": 75,
+            "ExtensionData": {},
+            "Id": "JTDKDTB38E1565653",
+            "Immat": "FJH3010",
+            "ModelName": "PRIUS-C",
+            "Name": "2931",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.5543705,
+                "Lon": -73.56441033333333
+            }
+        },
+        {
+            "EnergyLevel": 42,
+            "ExtensionData": {},
+            "Id": "JTDKDTB37F1584213",
+            "Immat": "FKX5339",
+            "ModelName": "PRIUS-C",
+            "Name": "3140",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.57109583333333,
+                "Lon": -73.576728
+            }
+        },
+        {
+            "EnergyLevel": 55,
+            "ExtensionData": {},
+            "Id": "JTDKDTB34E1068759",
+            "Immat": "FKD7372",
+            "ModelName": "PRIUS-C",
+            "Name": "2800",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.5339495,
+                "Lon": -73.56582283333333
+            }
+        },
+        {
+            "EnergyLevel": 62,
+            "ExtensionData": {},
+            "Id": "JTDKDTB35F1582251",
+            "Immat": "FKK4515",
+            "ModelName": "PRIUS-C",
+            "Name": "2963",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.50964916666667,
+                "Lon": -73.61321633333333
+            }
+        },
+        {
+            "EnergyLevel": 92,
+            "ExtensionData": {},
+            "Id": "JTDKDTB38F1584043",
+            "Immat": "FKD8629",
+            "ModelName": "PRIUS-C",
+            "Name": "3050",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.50963016666667,
+                "Lon": -73.6132265
+            }
+        },
+        {
+            "EnergyLevel": 44,
+            "ExtensionData": {},
+            "Id": "JTDKDTB37G1126494",
+            "Immat": "FLM8384",
+            "ModelName": "PRIUS-C",
+            "Name": "3566",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.50955833333333,
+                "Lon": -73.61770383333334
+            }
+        },
+        {
+            "EnergyLevel": 92,
+            "ExtensionData": {},
+            "Id": "JTDKDTB36E1565568",
+            "Immat": "FKK4099",
+            "ModelName": "PRIUS-C",
+            "Name": "2922",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.53656466666666,
+                "Lon": -73.56305716666667
+            }
+        },
+        {
+            "EnergyLevel": 92,
+            "ExtensionData": {},
+            "Id": "JTDKDTB32F1581168",
+            "Immat": "FKK4509",
+            "ModelName": "PRIUS-C",
+            "Name": "2941",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.5449585,
+                "Lon": -73.56055783333333
+            }
+        },
+        {
+            "EnergyLevel": 85,
+            "ExtensionData": {},
+            "Id": "JTDKDTB33F1584791",
+            "Immat": "FKX5340",
+            "ModelName": "PRIUS-C",
+            "Name": "3142",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.532409,
+                "Lon": -73.56423083333334
+            }
+        },
+        {
+            "EnergyLevel": 64,
+            "ExtensionData": {},
+            "Id": "JTDKDTB3XD1540946",
+            "Immat": "FJP4991",
+            "ModelName": "PRIUS-C",
+            "Name": "2685",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.53262566666667,
+                "Lon": -73.5628105
+            }
+        },
+        {
+            "EnergyLevel": 92,
+            "ExtensionData": {},
+            "Id": "JTDKDTB39D1539657",
+            "Immat": "FJP4923",
+            "ModelName": "PRIUS-C",
+            "Name": "2660",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.507819833333336,
+                "Lon": -73.61483783333334
+            }
+        },
+        {
+            "EnergyLevel": 78,
+            "ExtensionData": {},
+            "Id": "JTDKDTB38G1126195",
+            "Immat": "IMMAT",
+            "ModelName": "PRIUS-C",
+            "Name": "3573",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.5308985,
+                "Lon": -73.5635155
+            }
+        },
+        {
+            "EnergyLevel": 64,
+            "ExtensionData": {},
+            "Id": "JTDKDTB30E1070606",
+            "Immat": "FKD6839",
+            "ModelName": "PRIUS-C",
+            "Name": "2816",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.552555166666664,
+                "Lon": -73.55754833333333
+            }
+        },
+        {
+            "EnergyLevel": 82,
+            "ExtensionData": {},
+            "Id": "JTDKDTB36G1126440",
+            "Immat": "FLM8377",
+            "ModelName": "PRIUS-C",
+            "Name": "3559",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.55281733333333,
+                "Lon": -73.55579
+            }
+        },
+        {
+            "EnergyLevel": 62,
+            "ExtensionData": {},
+            "Id": "JTDKDTB35F1581844",
+            "Immat": "FKK4602",
+            "ModelName": "PRIUS-C",
+            "Name": "2960 - NPC",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.50547433333333,
+                "Lon": -73.62373083333334
+            }
+        },
+        {
+            "EnergyLevel": 58,
+            "ExtensionData": {},
+            "Id": "JN1AZ0CP0CT015333",
+            "Immat": "FVE1206",
+            "ModelName": "LEAF",
+            "Name": "2430-R",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.519490166666664,
+                "Lon": -73.5679575
+            }
+        },
+        {
+            "EnergyLevel": 54,
+            "ExtensionData": {},
+            "Id": "JTDKDTB31F1583977",
+            "Immat": "FKD8625",
+            "ModelName": "PRIUS-C",
+            "Name": "3055",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.56911483333333,
+                "Lon": -73.56195283333334
+            }
+        },
+        {
+            "EnergyLevel": 66,
+            "ExtensionData": {},
+            "Id": "1N4AZ0CP3FC334846",
+            "Immat": "FVE5230",
+            "ModelName": "LEAF",
+            "Name": "3324-R",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.5481585,
+                "Lon": -73.55280783333333
+            }
+        },
+        {
+            "EnergyLevel": 91,
+            "ExtensionData": {},
+            "Id": "JTDKDTB39F1583970",
+            "Immat": "FKX5619",
+            "ModelName": "PRIUS-C",
+            "Name": "3063 - NPC",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.5139025,
+                "Lon": -73.574177
+            }
+        },
+        {
+            "EnergyLevel": 72,
+            "ExtensionData": {},
+            "Id": "JTDKDTB32D1540942",
+            "Immat": "FJA9035",
+            "ModelName": "PRIUS-C",
+            "Name": "2616 - NPC",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.547140166666665,
+                "Lon": -73.55236516666666
+            }
+        },
+        {
+            "EnergyLevel": 71,
+            "ExtensionData": {},
+            "Id": "JTDKDTB35E1070004",
+            "Immat": "FJM3744",
+            "ModelName": "PRIUS-C",
+            "Name": "2869",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.547831,
+                "Lon": -73.55175216666666
+            }
+        },
+        {
+            "EnergyLevel": 79,
+            "ExtensionData": {},
+            "Id": "1N4AZ0CPXFC334486",
+            "Immat": "FVE5232",
+            "ModelName": "LEAF",
+            "Name": "3320-R",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.502223666666666,
+                "Lon": -73.6184785
+            }
+        },
+        {
+            "EnergyLevel": 30,
+            "ExtensionData": {},
+            "Id": "JTDKDTB32D1540195",
+            "Immat": "FJJ7086",
+            "ModelName": "PRIUS-C",
+            "Name": "2663",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.50302533333333,
+                "Lon": -73.62865566666666
+            }
+        },
+        {
+            "EnergyLevel": 54,
+            "ExtensionData": {},
+            "Id": "JTDKDTB37F1582249",
+            "Immat": "FKK4608",
+            "ModelName": "PRIUS-C",
+            "Name": "2965",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.50380033333333,
+                "Lon": -73.63340883333333
+            }
+        },
+        {
+            "EnergyLevel": 83,
+            "ExtensionData": {},
+            "Id": "JN1AZ0CP4BT003460",
+            "Immat": "FVE1194",
+            "ModelName": "LEAF",
+            "Name": "2422-R",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.579337,
+                "Lon": -73.5691925
+            }
+        },
+        {
+            "EnergyLevel": 50,
+            "ExtensionData": {},
+            "Id": "JTDKDTB30F1581315",
+            "Immat": "FKK4505",
+            "ModelName": "PRIUS-C",
+            "Name": "2939 - NPC",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.5111095,
+                "Lon": -73.5730575
+            }
+        },
+        {
+            "EnergyLevel": 58,
+            "ExtensionData": {},
+            "Id": "JTDKDTB39E1564589",
+            "Immat": "FKD6837",
+            "ModelName": "PRIUS-C",
+            "Name": "2820",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.575173666666664,
+                "Lon": -73.56267266666667
+            }
+        },
+        {
+            "EnergyLevel": 72,
+            "ExtensionData": {},
+            "Id": "1N4AZ0CP3FC334930",
+            "Immat": "FVE5233",
+            "ModelName": "LEAF",
+            "Name": "3319-R",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.50840816666667,
+                "Lon": -73.57763366666667
+            }
+        },
+        {
+            "EnergyLevel": 87,
+            "ExtensionData": {},
+            "Id": "JTDKDTB30G1127437",
+            "Immat": "Plaque",
+            "ModelName": "PRIUS-C",
+            "Name": "3440",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.580557,
+                "Lon": -73.56962583333333
+            }
+        },
+        {
+            "EnergyLevel": 32,
+            "ExtensionData": {},
+            "Id": "JTDKDTB39F1093111",
+            "Immat": "FKX5491",
+            "ModelName": "PRIUS-C",
+            "Name": "3147",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.510252666666666,
+                "Lon": -73.57136666666666
+            }
+        },
+        {
+            "EnergyLevel": 91,
+            "ExtensionData": {},
+            "Id": "JN1AZ0CP8BT006278",
+            "Immat": "FVE1195",
+            "ModelName": "LEAF",
+            "Name": "2421",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.5074595,
+                "Lon": -73.57667000000001
+            }
+        },
+        {
+            "EnergyLevel": 44,
+            "ExtensionData": {},
+            "Id": "JTDKDTB33F1584595",
+            "Immat": "FKX5337",
+            "ModelName": "PRIUS-C",
+            "Name": "3138",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.50868783333333,
+                "Lon": -73.573934
+            }
+        },
+        {
+            "EnergyLevel": 58,
+            "ExtensionData": {},
+            "Id": "JN1AZ0CP4BT004902",
+            "Immat": "FVE1193",
+            "ModelName": "LEAF",
+            "Name": "2423-R",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.50860633333333,
+                "Lon": -73.57383866666666
+            }
+        },
+        {
+            "EnergyLevel": 88,
+            "ExtensionData": {},
+            "Id": "JTDKDTB39F1583855",
+            "Immat": "FKD8653",
+            "ModelName": "PRIUS-C",
+            "Name": "3044",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.50732,
+                "Lon": -73.57632833333334
+            }
+        },
+        {
+            "EnergyLevel": 57,
+            "ExtensionData": {},
+            "Id": "JTDKDTB31E1564408",
+            "Immat": "FKD7371",
+            "ModelName": "PRIUS-C",
+            "Name": "2801 - NPC",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.507897,
+                "Lon": -73.57508666666666
+            }
+        },
+        {
+            "EnergyLevel": 92,
+            "ExtensionData": {},
+            "Id": "JTDKDTB38E1564499",
+            "Immat": "FKD7368",
+            "ModelName": "PRIUS-C",
+            "Name": "2804 - NPC",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.508444833333336,
+                "Lon": -73.57349866666667
+            }
+        },
+        {
+            "EnergyLevel": 72,
+            "ExtensionData": {},
+            "Id": "JTDKDTB31D1542455",
+            "Immat": "FJA9062",
+            "ModelName": "PRIUS-C",
+            "Name": "2645",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.50718416666667,
+                "Lon": -73.57598266666666
+            }
+        },
+        {
+            "EnergyLevel": 52,
+            "ExtensionData": {},
+            "Id": "JTDKDTB36E1071260",
+            "Immat": "FJH3005",
+            "ModelName": "PRIUS-C",
+            "Name": "2930",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.50746783333334,
+                "Lon": -73.57495683333333
+            }
+        },
+        {
+            "EnergyLevel": 61,
+            "ExtensionData": {},
+            "Id": "JTDKDTB3XD1542471",
+            "Immat": "FJA9065",
+            "ModelName": "PRIUS-C",
+            "Name": "2636",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.50682416666667,
+                "Lon": -73.57613883333333
+            }
+        },
+        {
+            "EnergyLevel": 32,
+            "ExtensionData": {},
+            "Id": "JTDKDTB37D1540368",
+            "Immat": "FJA9022",
+            "ModelName": "PRIUS-C",
+            "Name": "2629",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.571568666666664,
+                "Lon": -73.55456
+            }
+        },
+        {
+            "EnergyLevel": 75,
+            "ExtensionData": {},
+            "Id": "JTDKDTB38D1540959",
+            "Immat": "FJA9090",
+            "ModelName": "PRIUS-C",
+            "Name": "2631",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.506932,
+                "Lon": -73.57378033333333
+            }
+        },
+        {
+            "EnergyLevel": 50,
+            "ExtensionData": {},
+            "Id": "JTDKDTB35E1565318",
+            "Immat": "FJH3009",
+            "ModelName": "PRIUS-C",
+            "Name": "2938",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.50737316666667,
+                "Lon": -73.57288483333333
+            }
+        },
+        {
+            "EnergyLevel": 60,
+            "ExtensionData": {},
+            "Id": "JTDKDTB34D1540781",
+            "Immat": "FJA9029",
+            "ModelName": "PRIUS-C",
+            "Name": "2622",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.507222166666665,
+                "Lon": -73.5725405
+            }
+        },
+        {
+            "EnergyLevel": 47,
+            "ExtensionData": {},
+            "Id": "JTDKDTB35F1583318",
+            "Immat": "FKK4669",
+            "ModelName": "PRIUS-C",
+            "Name": "2977",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.5064025,
+                "Lon": -73.57313883333333
+            }
+        },
+        {
+            "EnergyLevel": 50,
+            "ExtensionData": {},
+            "Id": "JTDKDTB39F1582110",
+            "Immat": "FKK4612",
+            "ModelName": "PRIUS-C",
+            "Name": "2969",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.506374,
+                "Lon": -73.57304233333333
+            }
+        },
+        {
+            "EnergyLevel": 91,
+            "ExtensionData": {},
+            "Id": "JTDKDTB30D1041153",
+            "Immat": "FJA9085",
+            "ModelName": "PRIUS-C",
+            "Name": "2637",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.506401,
+                "Lon": -73.5729885
+            }
+        },
+        {
+            "EnergyLevel": 37,
+            "ExtensionData": {},
+            "Id": "JTDKDTB39D1540565",
+            "Immat": "FJA9089",
+            "ModelName": "PRIUS-C",
+            "Name": "2632",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.5454115,
+                "Lon": -73.543536
+            }
+        },
+        {
+            "EnergyLevel": 92,
+            "ExtensionData": {},
+            "Id": "JTDKDTB38E1069414",
+            "Immat": "FKD7369",
+            "ModelName": "PRIUS-C",
+            "Name": "2803",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.549669,
+                "Lon": -73.54234733333334
+            }
+        },
+        {
+            "EnergyLevel": 80,
+            "ExtensionData": {},
+            "Id": "JTDKDTB39E1564415",
+            "Immat": "FKD6834",
+            "ModelName": "PRIUS-C",
+            "Name": "2819",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.49612666666667,
+                "Lon": -73.62659083333334
+            }
+        },
+        {
+            "EnergyLevel": 65,
+            "ExtensionData": {},
+            "Id": "JTDKDTB37G1126673",
+            "Immat": "FLM8387",
+            "ModelName": "PRIUS-C",
+            "Name": "3569",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.499155,
+                "Lon": -73.64212083333334
+            }
+        },
+        {
+            "EnergyLevel": 77,
+            "ExtensionData": {},
+            "Id": "JTDKDTB37E1565076",
+            "Immat": "FKG4545",
+            "ModelName": "PRIUS-C",
+            "Name": "2934",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.537953,
+                "Lon": -73.5419795
+            }
+        },
+        {
+            "EnergyLevel": 82,
+            "ExtensionData": {},
+            "Id": "JTDKDTB3XG1126781",
+            "Immat": "IMMAT",
+            "ModelName": "PRIUS-C",
+            "Name": "3586",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.500704,
+                "Lon": -73.64932666666667
+            }
+        },
+        {
+            "EnergyLevel": 34,
+            "ExtensionData": {},
+            "Id": "JTDKDTB3XF1581712",
+            "Immat": "FKK4514",
+            "ModelName": "PRIUS-C",
+            "Name": "2951 - NPC",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.57611883333333,
+                "Lon": -73.55239116666667
+            }
+        },
+        {
+            "EnergyLevel": 42,
+            "ExtensionData": {},
+            "Id": "JN1AZ0CP6BT003802",
+            "Immat": "FVE1198",
+            "ModelName": "LEAF",
+            "Name": "2413-R",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.49417966666667,
+                "Lon": -73.61848566666667
+            }
+        },
+        {
+            "EnergyLevel": 50,
+            "ExtensionData": {},
+            "Id": "JTDKDTB34E1071094",
+            "Immat": "FKK4096",
+            "ModelName": "PRIUS-C",
+            "Name": "2928",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.500423,
+                "Lon": -73.65200783333333
+            }
+        },
+        {
+            "EnergyLevel": 74,
+            "ExtensionData": {},
+            "Id": "JTDKDTB37E1564414",
+            "Immat": "FKD6914",
+            "ModelName": "PRIUS-C",
+            "Name": "2839",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.49328883333333,
+                "Lon": -73.61122566666667
+            }
+        },
+        {
+            "EnergyLevel": 83,
+            "ExtensionData": {},
+            "Id": "JN1AZ0CP8CT015161",
+            "Immat": "FVE1957",
+            "ModelName": "LEAF",
+            "Name": "2433-R",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.5539295,
+                "Lon": -73.53878283333333
+            }
+        },
+        {
+            "EnergyLevel": 58,
+            "ExtensionData": {},
+            "Id": "JTDKDTB31D1040674",
+            "Immat": "FJP4990",
+            "ModelName": "PRIUS-C",
+            "Name": "2690",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.495966,
+                "Lon": -73.6403335
+            }
+        },
+        {
+            "EnergyLevel": 58,
+            "ExtensionData": {},
+            "Id": "JN1AZ0CP7BT005641",
+            "Immat": "FVE1201",
+            "ModelName": "LEAF",
+            "Name": "2426",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.5000975,
+                "Lon": -73.65436466666667
+            }
+        },
+        {
+            "EnergyLevel": 38,
+            "ExtensionData": {},
+            "Id": "JTDKDTB33F1584208",
+            "Immat": "FKX5493",
+            "ModelName": "PRIUS-C",
+            "Name": "3143",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.5595185,
+                "Lon": -73.53890266666667
+            }
+        },
+        {
+            "EnergyLevel": 41,
+            "ExtensionData": {},
+            "Id": "JTDKDTB31F1584675",
+            "Immat": "FKX5585",
+            "ModelName": "PRIUS-C",
+            "Name": "3087 - NPC",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.572747,
+                "Lon": -73.54450766666666
+            }
+        },
+        {
+            "EnergyLevel": 38,
+            "ExtensionData": {},
+            "Id": "JTDKDTB34F1582581",
+            "Immat": "FKK4512",
+            "ModelName": "PRIUS-C",
+            "Name": "2958",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.57916133333333,
+                "Lon": -73.5493555
+            }
+        },
+        {
+            "EnergyLevel": 55,
+            "ExtensionData": {},
+            "Id": "JTDKDTB35G1126672",
+            "Immat": "FLM8371",
+            "ModelName": "PRIUS-C",
+            "Name": "3553",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.580485833333334,
+                "Lon": -73.55064166666666
+            }
+        },
+        {
+            "EnergyLevel": 92,
+            "ExtensionData": {},
+            "Id": "JTDKDTB30F1092008",
+            "Immat": "FKX5616",
+            "ModelName": "PRIUS-C",
+            "Name": "3060 - NPC",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.499143833333335,
+                "Lon": -73.65940133333334
+            }
+        },
+        {
+            "EnergyLevel": 42,
+            "ExtensionData": {},
+            "Id": "JN1AZ0CP6BT005808",
+            "Immat": "FVE1202",
+            "ModelName": "LEAF",
+            "Name": "2425",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.56129833333333,
+                "Lon": -73.5343215
+            }
+        },
+        {
+            "EnergyLevel": 45,
+            "ExtensionData": {},
+            "Id": "JTDKDTB35G1126462",
+            "Immat": "FLM8369",
+            "ModelName": "PRIUS-C",
+            "Name": "3551",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.490383333333334,
+                "Lon": -73.6372945
+            }
+        },
+        {
+            "EnergyLevel": 54,
+            "ExtensionData": {},
+            "Id": "JTDKDTB39F1091438",
+            "Immat": "FKK4665",
+            "ModelName": "PRIUS-C",
+            "Name": "2980",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.594105,
+                "Lon": -73.56410733333334
+            }
+        },
+        {
+            "EnergyLevel": 66,
+            "ExtensionData": {},
+            "Id": "JN1AZ0CP3CT015021",
+            "Immat": "FVE1956",
+            "ModelName": "LEAF",
+            "Name": "2431-R",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.489870333333336,
+                "Lon": -73.64229016666667
+            }
+        },
+        {
+            "EnergyLevel": 41,
+            "ExtensionData": {},
+            "Id": "JTDKDTB3XE1070452",
+            "Immat": "FJM3710",
+            "ModelName": "PRIUS-C",
+            "Name": "2850",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.4864975,
+                "Lon": -73.6377105
+            }
+        },
+        {
+            "EnergyLevel": 71,
+            "ExtensionData": {},
+            "Id": "JTDKDTB32F1584412",
+            "Immat": "FKX5502",
+            "ModelName": "PRIUS-C",
+            "Name": "3093",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.485536,
+                "Lon": -73.637119
+            }
+        },
+        {
+            "EnergyLevel": 48,
+            "ExtensionData": {},
+            "Id": "JTDKDTB38F1584494",
+            "Immat": "FKX5419",
+            "ModelName": "PRIUS-C",
+            "Name": "3136 - NPC",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.495667166666664,
+                "Lon": -73.5596645
+            }
+        },
+        {
+            "EnergyLevel": 90,
+            "ExtensionData": {},
+            "Id": "JTDKDTB39G1126352",
+            "Immat": "IMMAT",
+            "ModelName": "PRIUS-C",
+            "Name": "3583",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.49564766666666,
+                "Lon": -73.55967933333334
+            }
+        },
+        {
+            "EnergyLevel": 80,
+            "ExtensionData": {},
+            "Id": "JTDKDTB35F1581990",
+            "Immat": "FKK4517",
+            "ModelName": "PRIUS-C",
+            "Name": "2962",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.49564933333333,
+                "Lon": -73.559546
+            }
+        },
+        {
+            "EnergyLevel": 38,
+            "ExtensionData": {},
+            "Id": "JTDKDTB36F1583182",
+            "Immat": "FKK4666",
+            "ModelName": "PRIUS-C",
+            "Name": "2978",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.49563233333333,
+                "Lon": -73.5595225
+            }
+        },
+        {
+            "EnergyLevel": 51,
+            "ExtensionData": {},
+            "Id": "1N4AZ0CP3FC334829",
+            "Immat": "FVE5222",
+            "ModelName": "LEAF",
+            "Name": "3311-R",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.4956055,
+                "Lon": -73.55948316666667
+            }
+        },
+        {
+            "EnergyLevel": 77,
+            "ExtensionData": {},
+            "Id": "JTDKDTB38D1039618",
+            "Immat": "FJP4993",
+            "ModelName": "PRIUS-C",
+            "Name": "2688 - NPC",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.495569833333334,
+                "Lon": -73.55942683333333
+            }
+        },
+        {
+            "EnergyLevel": 92,
+            "ExtensionData": {},
+            "Id": "JTDKDTB3XG1126988",
+            "Immat": "IMMAT",
+            "ModelName": "PRIUS-C",
+            "Name": "3588",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.49555816666667,
+                "Lon": -73.5593665
+            }
+        },
+        {
+            "EnergyLevel": 51,
+            "ExtensionData": {},
+            "Id": "1N4AZ0CP8FC334485",
+            "Immat": "FEV5236",
+            "ModelName": "LEAF",
+            "Name": "3310-R",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.495474,
+                "Lon": -73.55917566666666
+            }
+        },
+        {
+            "EnergyLevel": 34,
+            "ExtensionData": {},
+            "Id": "JTDKDTB36F1581450",
+            "Immat": "FKK4507",
+            "ModelName": "PRIUS-C",
+            "Name": "2946",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.48518216666667,
+                "Lon": -73.64171583333334
+            }
+        },
+        {
+            "EnergyLevel": 47,
+            "ExtensionData": {},
+            "Id": "JTDKDTB3XF1583119",
+            "Immat": "FKK4659",
+            "ModelName": "PRIUS-C",
+            "Name": "2972",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.483148666666665,
+                "Lon": -73.63094916666667
+            }
+        },
+        {
+            "EnergyLevel": 82,
+            "ExtensionData": {},
+            "Id": "JTDKDTB31G1127561",
+            "Immat": "Plaque",
+            "ModelName": "PRIUS-C",
+            "Name": "3459",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.5837185,
+                "Lon": -73.53682833333333
+            }
+        },
+        {
+            "EnergyLevel": 48,
+            "ExtensionData": {},
+            "Id": "JTDKDTB3XF1093117",
+            "Immat": "FKX5696",
+            "ModelName": "PRIUS-C",
+            "Name": "3085",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.587072166666665,
+                "Lon": -73.53981266666666
+            }
+        },
+        {
+            "EnergyLevel": 45,
+            "ExtensionData": {},
+            "Id": "JTDKDTB35G1126221",
+            "Immat": "Plaque",
+            "ModelName": "PRIUS-C",
+            "Name": "3546",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.4796445,
+                "Lon": -73.61332766666666
+            }
+        },
+        {
+            "EnergyLevel": 37,
+            "ExtensionData": {},
+            "Id": "JTDKDTB34F1092223",
+            "Immat": "FKX5636",
+            "ModelName": "PRIUS-C",
+            "Name": "3035",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.482620833333335,
+                "Lon": -73.58362283333334
+            }
+        },
+        {
+            "EnergyLevel": 42,
+            "ExtensionData": {},
+            "Id": "JTDKDTB38F1582390",
+            "Immat": "FKK4611",
+            "ModelName": "PRIUS-C",
+            "Name": "2967",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.5830735,
+                "Lon": -73.53231683333334
+            }
+        },
+        {
+            "EnergyLevel": 37,
+            "ExtensionData": {},
+            "Id": "JTDKDTB37F1582977",
+            "Immat": "FKK4657",
+            "ModelName": "PRIUS-C",
+            "Name": "2979",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.479947833333334,
+                "Lon": -73.58701733333334
+            }
+        },
+        {
+            "EnergyLevel": 92,
+            "ExtensionData": {},
+            "Id": "JTDKDTB35E1564234",
+            "Immat": "FVE7336",
+            "ModelName": "PRIUS-C",
+            "Name": "2797",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.479949500000004,
+                "Lon": -73.586934
+            }
+        },
+        {
+            "EnergyLevel": 30,
+            "ExtensionData": {},
+            "Id": "JTDKDTB30F1584067",
+            "Immat": "FKD8645",
+            "ModelName": "PRIUS-C",
+            "Name": "3048",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.59011916666667,
+                "Lon": -73.5342005
+            }
+        },
+        {
+            "EnergyLevel": 46,
+            "ExtensionData": {},
+            "Id": "1N4AZ0CP2FC334143",
+            "Immat": "FVE1084",
+            "ModelName": "LEAF",
+            "Name": "3303-R",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.4751485,
+                "Lon": -73.60564133333334
+            }
+        },
+        {
+            "EnergyLevel": 57,
+            "ExtensionData": {},
+            "Id": "JTDKDTB32F1094049",
+            "Immat": "FKX3408",
+            "ModelName": "PRIUS-C",
+            "Name": "2995",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.47809866666667,
+                "Lon": -73.58179633333333
+            }
+        },
+        {
+            "EnergyLevel": 66,
+            "ExtensionData": {},
+            "Id": "JN1AZ0CP4CT015013",
+            "Immat": "FHC5983",
+            "ModelName": "LEAF",
+            "Name": "2435-R",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.478095833333334,
+                "Lon": -73.5799805
+            }
+        },
+        {
+            "EnergyLevel": 38,
+            "ExtensionData": {},
+            "Id": "JTDKDTB31D1541516",
+            "Immat": "FJA9082",
+            "ModelName": "PRIUS-C",
+            "Name": "2641",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.476464666666665,
+                "Lon": -73.58706183333334
+            }
+        },
+        {
+            "EnergyLevel": 30,
+            "ExtensionData": {},
+            "Id": "JTDKDTB38F1584155",
+            "Immat": "FKD8622",
+            "ModelName": "PRIUS-C",
+            "Name": "3058",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.48321383333333,
+                "Lon": -73.56328466666666
+            }
+        },
+        {
+            "EnergyLevel": 55,
+            "ExtensionData": {},
+            "Id": "JTDKDTB33D1542831",
+            "Immat": "FJA9058",
+            "ModelName": "PRIUS-C",
+            "Name": "2652",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.483106,
+                "Lon": -73.5635435
+            }
+        },
+        {
+            "EnergyLevel": 30,
+            "ExtensionData": {},
+            "Id": "JTDKDTB37E1069548",
+            "Immat": "FVE7377",
+            "ModelName": "PRIUS-C",
+            "Name": "2798",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.47383283333333,
+                "Lon": -73.607626
+            }
+        },
+        {
+            "EnergyLevel": 55,
+            "ExtensionData": {},
+            "Id": "JTDKDTB34F1585657",
+            "Immat": "FKX5817",
+            "ModelName": "PRIUS-C",
+            "Name": "3180 - NPC",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.47350683333333,
+                "Lon": -73.61228116666666
+            }
+        },
+        {
+            "EnergyLevel": 62,
+            "ExtensionData": {},
+            "Id": "JTDKDTB38E1068795",
+            "Immat": "FKD7373",
+            "ModelName": "PRIUS-C",
+            "Name": "2799",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.478814,
+                "Lon": -73.57182716666667
+            }
+        },
+        {
+            "EnergyLevel": 54,
+            "ExtensionData": {},
+            "Id": "1N4AZ0CP0FC334254",
+            "Immat": "FVE1089",
+            "ModelName": "LEAF",
+            "Name": "3301-R",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.47369966666667,
+                "Lon": -73.59522383333334
+            }
+        },
+        {
+            "EnergyLevel": 73,
+            "ExtensionData": {},
+            "Id": "1N4AZ0CP7FC334722",
+            "Immat": "FVE5235",
+            "ModelName": "LEAF",
+            "Name": "3306-R",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.59642316666667,
+                "Lon": -73.53395983333333
+            }
+        },
+        {
+            "EnergyLevel": 60,
+            "ExtensionData": {},
+            "Id": "JTDKDTB33D1542635",
+            "Immat": "FJA9079",
+            "ModelName": "PRIUS-C",
+            "Name": "2651",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.467968166666665,
+                "Lon": -73.61633016666667
+            }
+        },
+        {
+            "EnergyLevel": 61,
+            "ExtensionData": {},
+            "Id": "JTDKDTB39E1068790",
+            "Immat": "FKD7374",
+            "ModelName": "PRIUS-C",
+            "Name": "2806",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.47749966666667,
+                "Lon": -73.55802433333334
+            }
+        },
+        {
+            "EnergyLevel": 66,
+            "ExtensionData": {},
+            "Id": "JN1AZ0CP9BT003437",
+            "Immat": "FVE1204",
+            "ModelName": "LEAF",
+            "Name": "2427",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.469529666666666,
+                "Lon": -73.58081333333334
+            }
+        },
+        {
+            "EnergyLevel": 44,
+            "ExtensionData": {},
+            "Id": "JTDKDTB39F1582253",
+            "Immat": "FKK4609",
+            "ModelName": "PRIUS-C",
+            "Name": "2970",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.47796116666667,
+                "Lon": -73.55061683333334
+            }
+        },
+        {
+            "EnergyLevel": 77,
+            "ExtensionData": {},
+            "Id": "JTDKDTB38G1126326",
+            "Immat": "IMMAT",
+            "ModelName": "PRIUS-C",
+            "Name": "3575",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.477981166666666,
+                "Lon": -73.55054166666666
+            }
+        },
+        {
+            "EnergyLevel": 41,
+            "ExtensionData": {},
+            "Id": "JTDKDTB37E1564252",
+            "Immat": "FKD7367",
+            "ModelName": "PRIUS-C",
+            "Name": "2792",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.58736583333334,
+                "Lon": -73.51004966666666
+            }
+        },
+        {
+            "EnergyLevel": 32,
+            "ExtensionData": {},
+            "Id": "JTDKDTB36E1565974",
+            "Immat": "FJH3018",
+            "ModelName": "PRIUS-C",
+            "Name": "2937",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.58685716666667,
+                "Lon": -73.5084815
+            }
+        },
+        {
+            "EnergyLevel": 42,
+            "ExtensionData": {},
+            "Id": "JTDKDTB33F1093265",
+            "Immat": "FKX3412",
+            "ModelName": "PRIUS-C",
+            "Name": "2999",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.613904166666664,
+                "Lon": -73.540476
+            }
+        },
+        {
+            "EnergyLevel": 30,
+            "ExtensionData": {},
+            "Id": "JTDKDTB30E1082450",
+            "Immat": "FJH3007",
+            "ModelName": "PRIUS-C",
+            "Name": "2933 - NPC",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.462599,
+                "Lon": -73.592537
+            }
+        },
+        {
+            "EnergyLevel": 72,
+            "ExtensionData": {},
+            "Id": "JTDKDTB32F1092088",
+            "Immat": "FKD8626",
+            "ModelName": "PRIUS-C",
+            "Name": "3053",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.592347833333335,
+                "Lon": -73.51102116666667
+            }
+        },
+        {
+            "EnergyLevel": 44,
+            "ExtensionData": {},
+            "Id": "JTDKDTB35F1092103",
+            "Immat": "FKD8644",
+            "ModelName": "PRIUS-C",
+            "Name": "3049",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.595374666666665,
+                "Lon": -73.51350983333333
+            }
+        },
+        {
+            "EnergyLevel": 55,
+            "ExtensionData": {},
+            "Id": "JTDKDTB30F1584599",
+            "Immat": "FKX5496",
+            "ModelName": "PRIUS-C",
+            "Name": "3094",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.611051,
+                "Lon": -73.53029366666667
+            }
+        },
+        {
+            "EnergyLevel": 32,
+            "ExtensionData": {},
+            "Id": "JTDKDTB32E1071241",
+            "Immat": "FKK4098",
+            "ModelName": "PRIUS-C",
+            "Name": "2923",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.464709166666665,
+                "Lon": -73.56899466666667
+            }
+        },
+        {
+            "EnergyLevel": 72,
+            "ExtensionData": {},
+            "Id": "JTDKDTB37E1564235",
+            "Immat": "FKD6849",
+            "ModelName": "PRIUS-C",
+            "Name": "2810",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.46427633333333,
+                "Lon": -73.56907816666667
+            }
+        },
+        {
+            "EnergyLevel": 31,
+            "ExtensionData": {},
+            "Id": "JTDKDTB32D1042014",
+            "Immat": "FJA9061",
+            "ModelName": "PRIUS-C",
+            "Name": "2646",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.458928,
+                "Lon": -73.59635833333333
+            }
+        },
+        {
+            "EnergyLevel": 58,
+            "ExtensionData": {},
+            "Id": "JN1AZ0CP6BT003573",
+            "Immat": "FVE1199",
+            "ModelName": "LEAF",
+            "Name": "2416-R",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.45844983333333,
+                "Lon": -73.59954533333334
+            }
+        },
+        {
+            "EnergyLevel": 84,
+            "ExtensionData": {},
+            "Id": "JTDKDTB39F1583161",
+            "Immat": "FKK4660",
+            "ModelName": "PRIUS-C",
+            "Name": "2982",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.45757416666667,
+                "Lon": -73.5979255
+            }
+        },
+        {
+            "EnergyLevel": 91,
+            "ExtensionData": {},
+            "Id": "JTDKDTB30F1092218",
+            "Immat": "FKX5621",
+            "ModelName": "PRIUS-C",
+            "Name": "3065",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.4575765,
+                "Lon": -73.59475066666667
+            }
+        },
+        {
+            "EnergyLevel": 38,
+            "ExtensionData": {},
+            "Id": "JTDKDTB37E1565384",
+            "Immat": "FJH3080",
+            "ModelName": "PRIUS-C",
+            "Name": "2929 - NPC",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.60665433333333,
+                "Lon": -73.51827233333333
+            }
+        },
+        {
+            "EnergyLevel": 85,
+            "ExtensionData": {},
+            "Id": "JTDKDTB30F1090842",
+            "Immat": "FKK4604",
+            "ModelName": "PRIUS-C",
+            "Name": "2952",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.457129,
+                "Lon": -73.596477
+            }
+        },
+        {
+            "EnergyLevel": 30,
+            "ExtensionData": {},
+            "Id": "JTDKDTB38F1583880",
+            "Immat": "FKX5635",
+            "ModelName": "PRIUS-C",
+            "Name": "3036",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.6052235,
+                "Lon": -73.51525716666667
+            }
+        },
+        {
+            "EnergyLevel": 64,
+            "ExtensionData": {},
+            "Id": "1N4AZ0CP9FC334575",
+            "Immat": "FVE5231",
+            "ModelName": "LEAF",
+            "Name": "3308-R",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.602132,
+                "Lon": -73.51090483333333
+            }
+        },
+        {
+            "EnergyLevel": 58,
+            "ExtensionData": {},
+            "Id": "JTDKDTB32F1584670",
+            "Immat": "FKX5445",
+            "ModelName": "PRIUS-C",
+            "Name": "3086",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.4558515,
+                "Lon": -73.59471366666666
+            }
+        },
+        {
+            "EnergyLevel": 48,
+            "ExtensionData": {},
+            "Id": "JTDKDTB39F1092668",
+            "Immat": "FKX5469",
+            "ModelName": "PRIUS-C",
+            "Name": "3141",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.456986,
+                "Lon": -73.64364216666667
+            }
+        },
+        {
+            "EnergyLevel": 30,
+            "ExtensionData": {},
+            "Id": "JTDKDTB33D1542439",
+            "Immat": "FJA9080",
+            "ModelName": "PRIUS-C",
+            "Name": "2650",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.603969,
+                "Lon": -73.51043933333334
+            }
+        },
+        {
+            "EnergyLevel": 73,
+            "ExtensionData": {},
+            "Id": "1N4AZ0CP9FC333930",
+            "Immat": "FVE2666",
+            "ModelName": "LEAF",
+            "Name": "3300-R",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.4549105,
+                "Lon": -73.5920075
+            }
+        },
+        {
+            "EnergyLevel": 85,
+            "ExtensionData": {},
+            "Id": "JTDKDTB38G1126262",
+            "Immat": "IMMAT",
+            "ModelName": "PRIUS-C",
+            "Name": "3574",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.45754766666667,
+                "Lon": -73.57296316666667
+            }
+        },
+        {
+            "EnergyLevel": 84,
+            "ExtensionData": {},
+            "Id": "JTDKDTB36F1581447",
+            "Immat": "FKK4519",
+            "ModelName": "PRIUS-C",
+            "Name": "2945",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.458377166666665,
+                "Lon": -73.5665655
+            }
+        },
+        {
+            "EnergyLevel": 51,
+            "ExtensionData": {},
+            "Id": "JTDKDTB36G1126681",
+            "Immat": "FLM8378",
+            "ModelName": "PRIUS-C",
+            "Name": "3560",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.449295666666664,
+                "Lon": -73.60478533333334
+            }
+        },
+        {
+            "EnergyLevel": 57,
+            "ExtensionData": {},
+            "Id": "JTDKDTB36D1540037",
+            "Immat": "FJP4921",
+            "ModelName": "PRIUS-C",
+            "Name": "2656",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.449214,
+                "Lon": -73.60289266666666
+            }
+        },
+        {
+            "EnergyLevel": 92,
+            "ExtensionData": {},
+            "Id": "JTDKDTB30D1542298",
+            "Immat": "FJA9064",
+            "ModelName": "PRIUS-C",
+            "Name": "2639",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.450023333333334,
+                "Lon": -73.59188683333333
+            }
+        },
+        {
+            "EnergyLevel": 92,
+            "ExtensionData": {},
+            "Id": "JTDKDTB31D1541872",
+            "Immat": "FJA9067",
+            "ModelName": "PRIUS-C",
+            "Name": "2642",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 45.441172333333334,
+                "Lon": -73.57930183333333
+            }
+        },
+        {
+            "EnergyLevel": 75,
+            "ExtensionData": {},
+            "Id": "JTDKDTB35F1584856",
+            "Immat": "FKX3432",
+            "ModelName": "PRIUS-C",
+            "Name": "3020",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 46.785180833333335,
+                "Lon": -71.26482916666667
+            }
+        },
+        {
+            "EnergyLevel": 62,
+            "ExtensionData": {},
+            "Id": "JTDKDTB34F1585139",
+            "Immat": "FKX3423",
+            "ModelName": "PRIUS-C",
+            "Name": "3011",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 46.784404333333335,
+                "Lon": -71.26397383333334
+            }
+        },
+        {
+            "EnergyLevel": 51,
+            "ExtensionData": {},
+            "Id": "JTDKDTB35F1093381",
+            "Immat": "FKX3428",
+            "ModelName": "PRIUS-C",
+            "Name": "3016",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 46.78244383333333,
+                "Lon": -71.24773183333333
+            }
+        },
+        {
+            "EnergyLevel": 48,
+            "ExtensionData": {},
+            "Id": "JTDKDTB35F1584937",
+            "Immat": "FKX3433",
+            "ModelName": "PRIUS-C",
+            "Name": "3021",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 46.80780633333333,
+                "Lon": -71.25018666666666
+            }
+        },
+        {
+            "EnergyLevel": 92,
+            "ExtensionData": {},
+            "Id": "JTDKDTB35F1585196",
+            "Immat": "FKX3435",
+            "ModelName": "PRIUS-C",
+            "Name": "3023",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 46.80618533333333,
+                "Lon": -71.246192
+            }
+        },
+        {
+            "EnergyLevel": 88,
+            "ExtensionData": {},
+            "Id": "JTDKDTB39F1585668",
+            "Immat": "FKX5808",
+            "ModelName": "PRIUS-C",
+            "Name": "3178",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 46.803883,
+                "Lon": -71.242849
+            }
+        },
+        {
+            "EnergyLevel": 58,
+            "ExtensionData": {},
+            "Id": "JTDKDTB35F1093882",
+            "Immat": "FKX3430",
+            "ModelName": "PRIUS-C",
+            "Name": "3018",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 46.81073283333333,
+                "Lon": -71.24691333333334
+            }
+        },
+        {
+            "EnergyLevel": 44,
+            "ExtensionData": {},
+            "Id": "JTDKDTB32F1584927",
+            "Immat": "FKX3409",
+            "ModelName": "PRIUS-C",
+            "Name": "2996",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 46.808107,
+                "Lon": -71.2353695
+            }
+        },
+        {
+            "EnergyLevel": 92,
+            "ExtensionData": {},
+            "Id": "JTDKDTB39F1094341",
+            "Immat": "fKX5807",
+            "ModelName": "PRIUS-C",
+            "Name": "3179",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 46.80255866666667,
+                "Lon": -71.22680983333333
+            }
+        },
+        {
+            "EnergyLevel": 40,
+            "ExtensionData": {},
+            "Id": "JTDKDTB34F1585383",
+            "Immat": "FKX3425",
+            "ModelName": "PRIUS-C",
+            "Name": "3013",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 46.808417,
+                "Lon": -71.22951266666666
+            }
+        },
+        {
+            "EnergyLevel": 41,
+            "ExtensionData": {},
+            "Id": "JTDKDTB35F1094157",
+            "Immat": "FKX3431",
+            "ModelName": "PRIUS-C",
+            "Name": "3019",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 46.810019833333335,
+                "Lon": -71.23004333333333
+            }
+        },
+        {
+            "EnergyLevel": 55,
+            "ExtensionData": {},
+            "Id": "JTDKDTB35F1585294",
+            "Immat": "FKX3437",
+            "ModelName": "PRIUS-C",
+            "Name": "3025",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 46.814905833333334,
+                "Lon": -71.23035116666667
+            }
+        },
+        {
+            "EnergyLevel": 82,
+            "ExtensionData": {},
+            "Id": "JTDKDTB34F1585030",
+            "Immat": "FKX3421",
+            "ModelName": "PRIUS-C",
+            "Name": "3009",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 46.8258565,
+                "Lon": -71.240508
+            }
+        },
+        {
+            "EnergyLevel": 87,
+            "ExtensionData": {},
+            "Id": "JTDKDTB34F1585206",
+            "Immat": "FKX3424",
+            "ModelName": "PRIUS-C",
+            "Name": "3012",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 46.820133,
+                "Lon": -71.2321755
+            }
+        },
+        {
+            "EnergyLevel": 61,
+            "ExtensionData": {},
+            "Id": "JTDKDTB35F1585019",
+            "Immat": "FKX3434",
+            "ModelName": "PRIUS-C",
+            "Name": "3022",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 46.81547166666667,
+                "Lon": -71.2244335
+            }
+        },
+        {
+            "EnergyLevel": 42,
+            "ExtensionData": {},
+            "Id": "JTDKDTB35F1093252",
+            "Immat": "FKX3427",
+            "ModelName": "PRIUS-C",
+            "Name": "3015",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 46.83091066666667,
+                "Lon": -71.23658633333334
+            }
+        },
+        {
+            "EnergyLevel": 67,
+            "ExtensionData": {},
+            "Id": "JTDKDTB32F1585379",
+            "Immat": "FKX3411",
+            "ModelName": "PRIUS-C",
+            "Name": "2998",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 46.823633,
+                "Lon": -71.226085
+            }
+        },
+        {
+            "EnergyLevel": 92,
+            "ExtensionData": {},
+            "Id": "JTDKDTB33F1093587",
+            "Immat": "FKX3413",
+            "ModelName": "PRIUS-C",
+            "Name": "3001",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 46.816348833333336,
+                "Lon": -71.2097535
+            }
+        },
+        {
+            "EnergyLevel": 32,
+            "ExtensionData": {},
+            "Id": "JTDKDTB33F1585021",
+            "Immat": "FKX3415",
+            "ModelName": "PRIUS-C",
+            "Name": "3003",
+            "Position": {
+                "ExtensionData": {},
+                "Lat": 46.81346816666667,
+                "Lon": -71.20457933333333
+            }
+        }
+    ]
+}

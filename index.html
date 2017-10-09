@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+<meta charset="UTF-8"> 
 	<title>Communauto truc</title>
 	<link id="favicon" rel="icon" type="img/ico" href="favicon.ico">
 	<link rel="stylesheet" href="https://code.jquery.com/ui/1.12.0/themes/base/jquery-ui.css">
@@ -90,11 +91,12 @@
 			    dataType: "jsonp",
 			    crossDomain: true,
 			    success: function(data) {
+			    	console.log(data.Vehicules[0]);
 			    	voitures = data.Vehicules.map(function(elem) {
 			    		var coords = new google.maps.LatLng(elem.Position.Lat, elem.Position.Lon);
 			    		var distance = google.maps.geometry.spherical.computeDistanceBetween(coords, center);
 			    		var good = (distance <= distanceIdeale ? true : false);
-		    			return {distance: Math.round(distance), name: elem.Name, coords: coords, good: good};
+		    			return {distance: Math.round(distance), name: elem.Name, coords: coords, good: good, data: elem};
 			    	});
 					addVehiculeMarkers(voitures);
 			    },
@@ -130,7 +132,7 @@
     				$("#dialog").dialog('close');
     			
     			getVehicules();
-    		}, 20000);
+    		}, 500000);
 		}
 
 		function drawCircle() {
@@ -150,6 +152,7 @@
 
 		function addVehiculeMarkers(voitures) {
 			clearMarkers();
+			console.log(voitures[0]);
 			var allbad = true;
 			voitures.forEach(function(elem) {
 				var marker = new google.maps.Marker({
@@ -195,10 +198,56 @@
 		function createInfoWindow(voiture) {
 			var resultat = 
 				'<div><b>'+
-					'Voiture ' + voiture.name + '</b><br/>' +
+					'Voiture ' + voiture.Id + '</b><br/>' +
 					'Distance : ' + voiture.distance + ' metres' +
-				'</div>'; 	
+				'</div>' + 
+				'<div class="book_LSI" id="book_LSI_' + voiture.data.Id + '"><a href="#" onClick="javascript:BookLSI (\'' + voiture.data.Id + '\', \'' + voiture.data.Name + '\', \'' + voiture.data.ModelName.toLowerCase() + '\', \'' + voiture.data.Immat + '\', \'XstrAddress2X\', \'Xcharge2X\', \'XnbrHourX\', \'' + voiture.coords.lat() + '\', \'' + voiture.coords.lng() + '\');">Sélectionner ce véhicule'+'</a></div>';
+; 	
 			return resultat;
+
+
+		}
+
+		function BookLSI (vin, carNo, modelName, licensePlate, address, charge, nbrHour, lat, lng) {
+			var lang = 1;
+			$.ajax({
+					url: 'https://www.reservauto.net/Scripts/Client/Ajax/Mobile/Login.asp',
+					type: 'GET',
+					data: {URLEnd: 'URLEnd'},
+					dataType: 'jsonp',
+					crossdomain: true,
+					contentType: 'application/json; charset=utf-8',
+					success: function(data){
+						var CustomerID = parseInt (data.data[0].CustomerID, 10);
+						var ProviderNo = data.data[0].ProviderNo;
+						// modif Eric 
+						var cityID = $('#ville').val();
+						// end  modif Eric
+						var Access = data.data[0].Access;
+						var contButtonLang =(lang == 1)? "Annuler" : "Cancel";
+
+						$.ajax({
+							url: 'https://www.reservauto.net/WCF/LSI/LSIBookingService.asmx/CreateBooking?Callback=?',
+							type: 'GET',
+							data: {CustomerID: "\"\"", "VehicleID": "\"" + vin + "\""},
+							dataType: 'jsonp',
+							crossdomain: true,
+							contentType: 'application/json; charset=utf-8',
+							success: function(data){
+								$('#progressbar').progressbar('destroy');
+								$('#progressbar').hide();
+
+
+								if (data) {
+									alert("Yeah !");
+								}
+								else {
+									alert("Marche pas");
+								}
+							}
+						});						
+					}
+				});
 
 
 		}

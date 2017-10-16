@@ -1,0 +1,22 @@
+{
+  "name": "communauto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "micro"
+  },
+  "dependencies": {
+    "@google/maps": "^0.4.5",
+    "express": "^4.16.1",
+    "micro": "latest",
+    "request": "^2.83.0",
+    "socketio": "^1.0.0"
+  },
+  "author": "Arthur Joliveau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajoliveau/ajoliveau/issues"
+  },
+  "homepage": "https://github.com/ajoliveau/ajoliveau#readme"
+}

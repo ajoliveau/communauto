@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8"> 
+	<title>Communauto truc</title>
+	<link id="favicon" rel="icon" type="img/ico" href="favicon.ico">
+	<link rel="stylesheet" href="https://code.jquery.com/ui/1.12.0/themes/base/jquery-ui.css">
+	<script type="text/javascript" src="https://maps.google.com/maps/api/js?libraries=geometry&key=AIzaSyCuQmpLTsBBC3EyJvNkQJNAu8x4HA9XL4E "></script>
+	<script src="https://code.jquery.com/jquery-3.1.0.js"></script>
+	<script src="https://code.jquery.com/ui/1.12.0/jquery-ui.js"></script>
+
+
+	<style type="text/css">
+    	html, body { height: 100%; margin: 10; padding: 0; }
+    	#map { 
+    		height: 80%; 
+    		width:	80%;
+      	}
+
+    </style>
+	
+
+	<script type="text/javascript" src="/js/script.js"></script>
+
+</head>
+<body>
+<div>
+	<p> Enter an adress, a postal code... </p>
+	<input type="text" name="adresse" id="adresse"><input type="button" value="Search" id="search"><br/>
+	<input type="number" id="distance" value="500">
+</div>
+<br/>
+<div id="map"></div>
+<div style="display:none" id="dialog" title="Alerte">
+  <p>Une voiture est disponible a proximite</p>
+</div>
+</body>
+</html>

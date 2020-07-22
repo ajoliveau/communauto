@@ -81,7 +81,7 @@
 
 			console.log("Requete ajax");			
 			$.ajax({
-			    url: "https://www.reservauto.net/WCF/LSI/LSIBookingService.asmx/GetVehicleProposals",
+				url: "https://www.reservauto.net/WCF/LSI/Cache/LSIBookingService.svc/GetVehicleProposals",
 			    data: { 
 			        "CustomerID": "", 
 			        "Longitude": center.lng(), 

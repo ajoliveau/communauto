@@ -198,7 +198,7 @@
 		function createInfoWindow(voiture) {
 			var resultat = 
 				'<div><b>'+
-					'Voiture ' + voiture.Id + '</b><br/>' +
+					'Voiture ' + voiture.data.Name + ' ' + voiture.data.ModelName + '</b><br/>' +
 					'Distance : ' + voiture.distance + ' metres' +
 				'</div>' + 
 				'<div class="book_LSI" id="book_LSI_' + voiture.data.Id + '"><a href="#" onClick="javascript:BookLSI (\'' + voiture.data.Id + '\', \'' + voiture.data.Name + '\', \'' + voiture.data.ModelName.toLowerCase() + '\', \'' + voiture.data.Immat + '\', \'XstrAddress2X\', \'Xcharge2X\', \'XnbrHourX\', \'' + voiture.coords.lat() + '\', \'' + voiture.coords.lng() + '\');">Sélectionner ce véhicule'+'</a></div>';

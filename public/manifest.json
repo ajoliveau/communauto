@@ -1,0 +1,15 @@
+{
+    "short_name": "My First PWA",
+    "name": "My First Progressive Web App",
+    "icons": [
+        {
+            "src": "assets/android-chrome-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "/",
+    "background_color": "#222",
+    "theme_color": "#222",
+    "display": "standalone"
+}

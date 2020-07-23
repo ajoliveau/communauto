@@ -3,6 +3,7 @@ import resolve from '@rollup/plugin-node-resolve';
 import commonjs from '@rollup/plugin-commonjs';
 import livereload from 'rollup-plugin-livereload';
 import { terser } from 'rollup-plugin-terser';
+import tailwind from 'rollup-plugin-tailwindcss';
 import sveltePreprocess from 'svelte-preprocess';
 import typescript from '@rollup/plugin-typescript';
 
@@ -27,7 +28,12 @@ export default {
 			},
 			preprocess: sveltePreprocess(),
 		}),
-
+		tailwind({
+			input: 'path/to/entry.css', // required
+			// Tailor the emitted stylesheet to the bundle by removing any unused CSS
+			// (highly recommended when packaging for distribution).
+			purge: false,
+		}),
 		// If you have external dependencies installed from
 		// npm, you'll most likely need these plugins. In
 		// some cases you'll need additional configuration -

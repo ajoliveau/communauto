@@ -8,7 +8,7 @@
     let markersArray;
     let map;
     
-    $: addVehiculeMarkers(vehicles, map);
+    $: addVehiculeMarkers(vehicles, map, markersArray);
     
     onMount(async () => {
         initMap();             
